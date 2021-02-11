@@ -1,0 +1,27 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+.item-display {
+  margin-top: 3em;
+}
+.meal-item {
+  width: 50%;
+  border-radius: 1em;
+  overflow: hidden;
+  box-shadow: 0 1px 10px grey;
+}
+.meal-img img {
+  width: 100%;
+  border-radius: 5px;
+  display: block;
+}
+.meal-name {
+  padding: 1.5em 0.5em;
+  text-align: center;
+}
+
+#item {
+  border: 1px solid black;
+}
